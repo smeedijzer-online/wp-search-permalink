@@ -61,5 +61,3 @@ class WP_Search_Permalink {
 }
 
 new WP_Search_Permalink();
-
-?>
